@@ -7,8 +7,8 @@
   },
   "servers": [
     {
-      "url": "https://australia-southeast1-subtracker-a2b7d.cloudfunctions.net",
-      "description": "Firebase Cloud Functions"
+      "url": "https://us-central1-subtracker-a2b7d.cloudfunctions.net",
+      "description": "Firebase Cloud Functions (US Central)"
     }
   ],
   "paths": {
